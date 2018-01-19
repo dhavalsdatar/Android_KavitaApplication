@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "122126390460",
+    "firebase_url": "https://kavita-73bc1.firebaseio.com",
+    "project_id": "kavita-73bc1",
+    "storage_bucket": "kavita-73bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122126390460:android:d3bcb8fa7b2a72b9",
+        "android_client_info": {
+          "package_name": "personal.dhaval.kavita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122126390460-1dbf7i1fh7ah4f1tp5df2496ioeqc4oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "personal.dhaval.kavita",
+            "certificate_hash": "0503163fb8b03722983922684ed44aeaa89bcdf2"
+          }
+        },
+        {
+          "client_id": "122126390460-qm8r31679nq608ra5rea0ranlq3c8256.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVE7b6mCJmla6_YDTJMtAmHqJ-1ZcTeJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122126390460-qm8r31679nq608ra5rea0ranlq3c8256.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

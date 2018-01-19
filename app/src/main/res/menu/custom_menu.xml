@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="personal.dhaval.kavita.screens.Home">
+
+    <item
+        android:id="@+id/action_deleteFile"
+        android:title="Delete"
+        />
+
+    <item
+        android:id="@+id/action_whatsapp"
+        android:title="Whatsapp"
+        />
+
+    <item
+        android:id="@+id/action_email"
+        android:title="Email"
+        />
+</menu>
+<!--<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="personal.dhaval.kavita.screens.Home">
+
+    <item
+        android:id="@+id/action_deleteFile"
+        app:showAsAction="always"
+        android:title="Delete"
+        android:icon="@drawable/icon_delete"/>
+
+    <item
+        android:id="@+id/action_whatsapp"
+        app:showAsAction="always"
+        android:title="Whatsapp"
+        android:icon="@drawable/icon_whatsapp"/>
+
+    <item
+        android:id="@+id/action_email"
+        app:showAsAction="always"
+        android:title="Email"
+        android:icon="@drawable/icon_email"/>
+</menu>-->
